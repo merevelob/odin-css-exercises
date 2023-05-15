@@ -1,0 +1,22 @@
+.odd {
+    background-color: hsl(0, 60%, 75%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.even {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#two {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(100, 255, 100);
+    font-weight: bold;
+}
